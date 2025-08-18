@@ -7,35 +7,31 @@ redirect_from:
   - /about.html
 ---
 
-👨‍🎓 I am a dedicated, passionate researcher and educator specializing in large-scale evaluation and quantitative research methodologies (e.g., survey, intervention). 
+## Professional Summary
 
-🔍 My research expertise spans the design and implementation of innovative educational interventions, survey-based research designs, structural equation modelling, and the development of conceptual frameworks that integrate various educational constructs. 
+👨‍🎓 Researcher & educator specializing in large-scale evaluation and quantitative methods.
 
-🔬 Through rigorous empirical inquiry, I have advanced understanding in research areas such as regulation of learning, blended learning, student engagement, teaching practices, large-scale evaluation, and more recently, implications of GenAI on students’ learning, with findings published in esteemed academic platforms and peer-reviewed journals.
+🔍 Designs and implements educational interventions and survey-based research, using structural equation modelling.
 
-🛠️ I have a proven track record of leading institutional research projects, cross-institutional collaborations, evidence-based learning interventions, supervising undergraduate students, mentoring junior researchers, teaching learners from across the secondary and higher education spectrum, and service contributions in various capacities. 
+🔬 Research on student engagement, blended learning, regulation of learning, and GenAI in education.
 
-📝 Recognized for my expertise in educational research methodologies, I have conducted workshops at the Singapore Institute of Technology (SIT) and delivered invited talks, most notably “Foundations of Educational Research Methodology: Research Design and Data Collection Methods” at the National University of Singapore (NUS).
-
-🌐  Skilled in large-scale evaluation, I design and evaluate frameworks to improve educational initiatives, leveraging data-driven insights from structural equation modelling to foster continuous improvement and enhance learner outcomes. 
-
-🌉 My work emphasizes bridging theory and practice, supporting institutional and departmental goals through evidence-based strategies, addressing diverse stakeholder needs.
+🛠️ Leads research projects, workshops, and mentorship, bridging theory and practice for impactful learning outcomes.
 
 # Educational Background
 
 ## 🎓 Doctor of Philosophy (PhD)
-- Nanyang Technological University, National Institute of Education
+- Nanyang Technological University
 - 2020 January - 2025 April
 - Specialization: Educational Psychology
 - CGPA Coursework: 5.00/5.00
 
 ## 🎓 Master of Education (MEd)
-- Nanyang Technological University, National Institute of Education
+- Nanyang Technological University
 - 2017 January - 2019 June
 - Specialization: Mathematics Education
 
 ## 🎓 Postgraduate Diploma in Education (PGDE)
-- Nanyang Technological University, National Institute of Education
+- Nanyang Technological University
 - 2012 August - 2013 July
 - With Credit
 
