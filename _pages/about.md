@@ -14,12 +14,23 @@ This is the front page of a website that is powered by the [Academic Pages templ
 Educational Background
 ======
 🎓 Doctor of Philosophy (PhD)
+Nanyang Technological University, National Institute of Education
+2020 January - 2025 April
+Thesis: Socially Shared Regulation of Learning: Antecedents, Strategies, and Team Outcomes
+CGPA Coursework: 5.00/5.00
 
 🎓 Master of Education (MEd)
+Nanyang Technological University, National Institute of Education
+2017 January - 2019 June
+Thesis: Secondary School Students’ Strategies in Generalising Numerical Patterns
 
 🎓 Postgraduate Diploma in Education (PGDE)
+Nanyang Technological University, National Institute of Education
+With Credit
 
 🎓 Bachelor of Science (BSc)
+National University of Singapore
+Awarded the Ministry of Education Teaching Award scholarship for undergraduate studies
 
 For those users that need more advanced functionality, the template also supports the following popular tools:
 - [MathJax](https://www.mathjax.org/) for mathematical equations
