@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Dr. Kenan Kok"
+  pronouns         : "He/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Singapore"
+  employer         : "Singapore Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kenan.kok@singaporetech.edu.sg" 
 
   # Academic websites
   academia         : # URL
