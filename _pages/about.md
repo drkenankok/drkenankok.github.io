@@ -51,19 +51,45 @@ Educational Background
 
 Research Interests
 ======
-🧠📖 Regulation of Learning, including socially shared regulation of learning, self-regulated learning, socially shared metacognitive regulation, metacognitive regulation.
+### 🧠📖 Regulation of Learning
+- socially shared regulation of learning
+- self-regulated learning
+- socially shared metacognitive regulation
+- metacognitive regulation
 
-🙋‍♂️🙋‍♀️ Student Engagement, including user engagement, learner satisfaction, various facets of student engagement such as behavioural, cognitive, emotional, agentic engagement.
+### 🙋‍♂️🙋‍♀️ Student Engagement
+- user engagement
+- learner satisfaction
+- various facets of student engagement such as behavioural, cognitive, emotional, agentic engagement
 
-🌻🤝 Positive Psychology, including burnout, students’ approaches to learning, grit, resilience.
+### 🌻🤝 Positive Psychology
+- burnout
+- students’ approaches to learning
+- grit
+- resilience
 
-🔍📊 Large-Scale Evaluation, including programme evaluation frameworks (e.g., Kirkpatrick Model, Theory-Drive Evaluation, Context, Input, Process, Product (CIPP) Model), quantitative evaluation methods, particularly structural equation modelling.
+### 🔍📊 Large-Scale Evaluation
+- programme evaluation frameworks (e.g., Kirkpatrick Model, Theory-Drive Evaluation, Context, Input, Process, Product (CIPP) Model)
+- quantitative evaluation methods, particularly structural equation modelling
 
-🤖📚 Implications of Generative AI (GenAI) on students’ learning, including attitudes towards GenAI, benefits of GenAI, concerns of GenAI, engagement with GenAI.
+### 🤖📚 Implications of Generative AI (GenAI) on students’ learning
+- attitudes towards GenAI
+- benefits of GenAI
+- concerns of GenAI
+- engagement with GenAI
 
-📊📑 Quantitative Research Designs, including survey-based research, educational intervention-based research.
+### 📊📑 Quantitative Research Designs
+- survey-based research
+- educational intervention-based research
 
-📈🧮 Quantitative Research Methods, including structural equation modelling, confirmatory factor analysis, exploratory factor analysis, applied regression analysis, multilevel modelling, generalized linear modelling, cluster analysis.
+### 📈🧮 Quantitative Research Methods
+- structural equation modelling
+- confirmatory factor analysis
+- exploratory factor analysis
+- applied regression analysis
+- multilevel modelling
+- generalized linear modelling
+- cluster analysis
 
 Teaching Interests
 ======
