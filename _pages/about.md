@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Professional Summary
+# Professional Summary
 
 👨‍🎓 Researcher & educator specializing in large-scale evaluation and quantitative methods.
 
