@@ -10,5 +10,3 @@ slidesurl: 'https://irr.singaporetech.edu.sg/articles/conference_contribution/St
 paperurl: 'https://www.researchgate.net/publication/388222519_The_mediating_role_of_student_engagement_in_the_relationship_between_teacher_and_digital_support_and_learner_satisfaction_in_blended_learning_environments_at_higher_education'
 citation: 'Kok, X.-F. K., Pua, C. Y., Puah, S., Devilly, O. Z., Wang, P. C., & Chua, E. C.-P. (2025). The mediating role of student engagement in the relationship between teacher and digital support and learner satisfaction in blended learning environments at higher education. British Educational Research Journal, 51(3), 1313–1341. https://doi.org/10.1002/berj.4123'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
