@@ -7,22 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+XX [insert text]
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+XX [insert text]
 
 Educational Background
 ======
 🎓 Doctor of Philosophy (PhD)
 - Nanyang Technological University, National Institute of Education
 - 2020 January - 2025 April
-- Thesis: Socially Shared Regulation of Learning: Antecedents, Strategies, and Team Outcomes
+- Specialization: Educational Psychology
 - CGPA Coursework: 5.00/5.00
 
 🎓 Master of Education (MEd)
 - Nanyang Technological University, National Institute of Education
 - 2017 January - 2019 June
-- Thesis: Secondary School Students’ Strategies in Generalising Numerical Patterns
+- Specialization: Mathematics Education
 
 🎓 Postgraduate Diploma in Education (PGDE)
 - Nanyang Technological University, National Institute of Education
@@ -32,10 +32,7 @@ Educational Background
 - National University of Singapore
 - Awarded the Ministry of Education Teaching Award scholarship for undergraduate studies
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+XX [insert text]
 
 Getting started
 ======
