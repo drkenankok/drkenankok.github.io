@@ -41,13 +41,13 @@ Educational Background
 
 Research Interests
 ======
-1. Regulation of Learning, including socially shared regulation of learning, self-regulated learning, socially shared metacognitive regulation, metacognitive regulation.
-1. Student Engagement, including user engagement, learner satisfaction, various facets of student engagement such as behavioural, cognitive, emotional, agentic engagement.
-1. Positive Psychology, including burnout, students’ approaches to learning, grit, resilience.
-1. Large-Scale Evaluation, including programme evaluation frameworks (e.g., Kirkpatrick Model, Theory-Drive Evaluation, Context, Input, Process, Product (CIPP) Model), quantitative evaluation methods, particularly structural equation modelling.
-1. Implications of Generative AI (GenAI) on students’ learning, including attitudes towards GenAI, benefits of GenAI, concerns of GenAI, engagement with GenAI.
-1. Quantitative Research Designs, including survey-based research, educational intervention-based research.
-1. Quantitative Research Methods, including structural equation modelling, confirmatory factor analysis, exploratory factor analysis, applied regression analysis, multilevel modelling, generalized linear modelling, cluster analysis.
+🧠📖 Regulation of Learning, including socially shared regulation of learning, self-regulated learning, socially shared metacognitive regulation, metacognitive regulation.
+🙋‍♂️🙋‍♀️ Student Engagement, including user engagement, learner satisfaction, various facets of student engagement such as behavioural, cognitive, emotional, agentic engagement.
+🌻🤝 Positive Psychology, including burnout, students’ approaches to learning, grit, resilience.
+🔍📊 Large-Scale Evaluation, including programme evaluation frameworks (e.g., Kirkpatrick Model, Theory-Drive Evaluation, Context, Input, Process, Product (CIPP) Model), quantitative evaluation methods, particularly structural equation modelling.
+🤖📚 Implications of Generative AI (GenAI) on students’ learning, including attitudes towards GenAI, benefits of GenAI, concerns of GenAI, engagement with GenAI.
+📊📑 Quantitative Research Designs, including survey-based research, educational intervention-based research.
+📈🧮 Quantitative Research Methods, including structural equation modelling, confirmatory factor analysis, exploratory factor analysis, applied regression analysis, multilevel modelling, generalized linear modelling, cluster analysis.
 
 Technical Skills
 ======
