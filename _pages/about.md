@@ -11,13 +11,15 @@ redirect_from:
 
 🔍 My research expertise spans the design and implementation of innovative educational interventions, survey-based research designs, structural equation modelling, and the development of conceptual frameworks that integrate various educational constructs. 
 
-📝 Through rigorous empirical inquiry, I have advanced understanding in research areas such as regulation of learning, blended learning, student engagement, teaching practices, large-scale evaluation, and more recently, implications of GenAI on students’ learning, with findings published in esteemed academic platforms and peer-reviewed journals.
+🔬 Through rigorous empirical inquiry, I have advanced understanding in research areas such as regulation of learning, blended learning, student engagement, teaching practices, large-scale evaluation, and more recently, implications of GenAI on students’ learning, with findings published in esteemed academic platforms and peer-reviewed journals.
 
 🛠️ I have a proven track record of leading institutional research projects, cross-institutional collaborations, evidence-based learning interventions, supervising undergraduate students, mentoring junior researchers, teaching learners from across the secondary and higher education spectrum, and service contributions in various capacities. 
 
 📝 Recognized for my expertise in educational research methodologies, I have conducted workshops at the Singapore Institute of Technology (SIT) and delivered invited talks, most notably “Foundations of Educational Research Methodology: Research Design and Data Collection Methods” at the National University of Singapore (NUS).
 
-🌐  Skilled in large-scale evaluation, I design and evaluate frameworks to improve educational initiatives, leveraging data-driven insights from structural equation modelling to foster continuous improvement and enhance learner outcomes. My work emphasizes bridging theory and practice, supporting institutional and departmental goals through evidence-based strategies, addressing diverse stakeholder needs.
+🌐  Skilled in large-scale evaluation, I design and evaluate frameworks to improve educational initiatives, leveraging data-driven insights from structural equation modelling to foster continuous improvement and enhance learner outcomes. 
+
+🌉 My work emphasizes bridging theory and practice, supporting institutional and departmental goals through evidence-based strategies, addressing diverse stakeholder needs.
 
 Educational Background
 ======
