@@ -39,16 +39,20 @@ Educational Background
 - Specialization: Mathematics
 - Awarded the Ministry of Education Teaching Award scholarship for undergraduate studies
 
-XX [insert text]
-
-Getting started
+Research Interests
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Regulation of Learning, including socially shared regulation of learning, self-regulated learning, socially shared metacognitive regulation, metacognitive regulation.
+1. Student Engagement, including user engagement, learner satisfaction, various facets of student engagement such as behavioural, cognitive, emotional, agentic engagement.
+1. Positive Psychology, including burnout, students’ approaches to learning, grit, resilience.
+1. Large-Scale Evaluation, including programme evaluation frameworks (e.g., Kirkpatrick Model, Theory-Drive Evaluation, Context, Input, Process, Product (CIPP) Model), quantitative evaluation methods, particularly structural equation modelling.
+1. Implications of Generative AI (GenAI) on students’ learning, including attitudes towards GenAI, benefits of GenAI, concerns of GenAI, engagement with GenAI.
+1. Quantitative Research Designs, including survey-based research, educational intervention-based research.
+1. Quantitative Research Methods, including structural equation modelling, confirmatory factor analysis, exploratory factor analysis, applied regression analysis, multilevel modelling, generalized linear modelling, cluster analysis.
+
+Technical Skills
+======
+1. Statistical software packages, including Mplus, SPSS, R, Microsoft Excel.
+2. Statistical analyses, including structural equation modelling (SEM), confirmatory factor analysis (CFA), exploratory factor analysis (EFA), measurement invariance, applied regression analysis, multilevel modelling, generalized linear modelling, cluster analysis.
 
 Site-wide configuration
 ------
