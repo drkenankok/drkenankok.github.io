@@ -55,6 +55,15 @@ Research Interests
 
 📈🧮 Quantitative Research Methods, including structural equation modelling, confirmatory factor analysis, exploratory factor analysis, applied regression analysis, multilevel modelling, generalized linear modelling, cluster analysis.
 
+Teaching Interests
+======
+1. Educational Psychology, including teaching and learning theories, educational psychology theories.
+2. Research Methods, including quantitative research methods (e.g., survey-based research, experimental research, correlational research).
+3. Advanced Statistical Analyses, including applied regression analysis, structural equation modelling, other inferential statistical techniques (e.g., t-tests, ANOVA, ANCOVA, MANOVA, MANCOVA).
+4. Collaborative Learning, including computer-supported collaborative learning (CSCL), socially shared regulation of learning, team-based learning.
+5. Curriculum Design, including pedagogical approaches to teaching and learning, designing and evaluating blended learning. 
+6. Teaching Practicum, including mentoring and supervision of practicum trainees.
+
 Technical Skills
 ======
 1. Statistical software packages, including Mplus, SPSS, R, Microsoft Excel.
