@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Kenan Kok's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Kenan Kok"
   pronouns         : "He/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Senior Learning Analyst"
   location         : "Singapore"
   employer         : "Singapore Institute of Technology"
   uri              : # URL
