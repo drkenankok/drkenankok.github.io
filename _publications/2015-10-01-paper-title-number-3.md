@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "The mediating role of student engagement in the relationship between teacher and digital support and learner satisfaction in blended learning environments at higher education"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: https://doi.org/10.1002/berj.4123
+excerpt: 'Given the emergence of blended learning as the dominant mode of learning at university in a post-COVID-19 world, the need to examine students' perceptions of blended learning is increasingly becoming more important. This study examined the mediating role of student engagement in the relationship between the types of support (i.e., teacher, digital) and learner satisfaction in blended learning environments. A sample of 674 Year 1 and Year 2 students from a public university in Singapore participated in this study. Structural equation modelling showed that (1) teacher autonomy and digital relatedness support predicted agentic engagement, (2) digital competence and relatedness support predicted emotional engagement, (3) emotional engagement predicted all learner satisfaction facets except for learner–instructor interaction and (4) agentic engagement predicted all learner satisfaction facets except for learner–technology interaction. Of the four dimensions of student engagement, only emotional and agentic engagement mediated the relationships between various dimensions of support and learner satisfaction. Overall, these findings highlight the importance of emotionally engaging students and imbuing a sense of agency in them to enhance the relationships between the types of support and learner satisfaction.'
 date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'British Educational Research Journal'
+slidesurl: 'https://irr.singaporetech.edu.sg/articles/conference_contribution/Student_Engagement_as_a_Bridge_between_Support_and_Learner_Satisfaction_in_Blended_Learning_Environments_at_Higher_Education/29231579?file=56284028'
+paperurl: 'https://www.researchgate.net/publication/388222519_The_mediating_role_of_student_engagement_in_the_relationship_between_teacher_and_digital_support_and_learner_satisfaction_in_blended_learning_environments_at_higher_education'
+citation: 'Kok, X.-F. K., Pua, C. Y., Puah, S., Devilly, O. Z., Wang, P. C., & Chua, E. C.-P. (2025). The mediating role of student engagement in the relationship between teacher and digital support and learner satisfaction in blended learning environments at higher education. British Educational Research Journal, 51(3), 1313–1341. https://doi.org/10.1002/berj.4123'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
