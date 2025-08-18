@@ -24,22 +24,26 @@ redirect_from:
 Educational Background
 ======
 🎓 Doctor of Philosophy (PhD)
+------
 - Nanyang Technological University, National Institute of Education
 - 2020 January - 2025 April
 - Specialization: Educational Psychology
 - CGPA Coursework: 5.00/5.00
 
 🎓 Master of Education (MEd)
+------
 - Nanyang Technological University, National Institute of Education
 - 2017 January - 2019 June
 - Specialization: Mathematics Education
 
 🎓 Postgraduate Diploma in Education (PGDE)
+------
 - Nanyang Technological University, National Institute of Education
 - 2012 August - 2013 July
 - With Credit
 
 🎓 Bachelor of Science (BSc)
+------
 - National University of Singapore
 - 2009 August - 2012 July
 - Specialization: Mathematics
