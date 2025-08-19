@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 # Professional Summary
 
 👨‍🎓 Researcher & educator specializing in large-scale evaluation and quantitative methods.
@@ -44,70 +45,70 @@ redirect_from:
 # Research Interests
 
 ## 🧠📖 Regulation of Learning
-- socially shared regulation of learning
-- self-regulated learning
-- socially shared metacognitive regulation
-- metacognitive regulation
+- Socially shared regulation of learning (SSRL)
+- Self-regulated learning (SRL)
+- Socially shared metacognitive regulation (SSMR)
+- Metacognitive regulation
 
 ## 🙋‍♂️🙋‍♀️ Student Engagement
-- user engagement
-- learner satisfaction
-- various facets of student engagement such as behavioural, cognitive, emotional, agentic engagement
+- User engagement
+- Learner satisfaction
+- Various facets of student engagement such as behavioural, cognitive, emotional, agentic engagement
 
 ## 🌻🤝 Positive Psychology
-- burnout
-- students’ approaches to learning
-- grit
-- resilience
+- Burnout
+- Students’ approaches to learning
+- Grit
+- Resilience
 
 ## 🔍📊 Large-Scale Evaluation
-- programme evaluation frameworks (e.g., Kirkpatrick Model, Theory-Drive Evaluation, Context, Input, Process, Product (CIPP) Model)
-- quantitative evaluation methods, particularly structural equation modelling
+- Programme evaluation frameworks (e.g., Kirkpatrick Model, Theory-Drive Evaluation, Context, Input, Process, Product (CIPP) Model)
+- Quantitative evaluation methods, particularly structural equation modelling (SEM)
 
 ## 🤖📚 Implications of Generative AI (GenAI) on students’ learning
-- attitudes towards GenAI
-- benefits of GenAI
-- concerns of GenAI
-- engagement with GenAI
+- Attitudes towards GenAI
+- Benefits of GenAI
+- Concerns of GenAI
+- Engagement with GenAI
 
-## 📊📑 Quantitative Research Designs
-- survey-based research
-- educational intervention-based research
+## 📊📑 Quantitative Research Methods
+- Survey-based research
+- Educational intervention-based research
 
-## 📈🧮 Quantitative Research Methods
-- structural equation modelling
-- confirmatory factor analysis
-- exploratory factor analysis
-- applied regression analysis
-- multilevel modelling
-- generalized linear modelling
-- cluster analysis
+## 📈🧮 Quantitative Statistical Techniques
+- Structural equation modelling (SEM)
+- Confirmatory factor analysis (CFA)
+- Exploratory factor analysis (EFA)
+- Applied regression analysis
+- Multilevel modelling
+- Generalized linear modelling
+- Cluster analysis
 
 # Teaching Interests
 
 ## 1. Educational Psychology 
-- teaching and learning theories
-- educational psychology theories
+- Teaching and learning theories
+- Educational psychology theories
 
 ## 2. Research Methods
-- quantitative research methods (e.g., survey-based research, experimental research, correlational research)
+- Quantitative research methods (e.g., survey-based research, experimental research, correlational research)
 
 ## 3. Advanced Statistical Analyses
-- applied regression analysis
-- structural equation modelling (SEM)
-- other inferential statistical techniques (e.g., t-tests, ANOVA, ANCOVA, MANOVA, MANCOVA)
+- Applied regression analysis
+- Structural equation modelling (SEM)
+- Other inferential statistical techniques (e.g., t-tests, ANOVA, ANCOVA, MANOVA, MANCOVA)
 
 ## 4. Collaborative Learning
-- computer-supported collaborative learning (CSCL)
-- socially shared regulation of learning
-- team-based learning
+- Computer-supported collaborative learning (CSCL)
+- Socially shared regulation of learning (SSRL)
+- Team-based learning (TBL)
 
 ## 5. Curriculum Design
-- pedagogical approaches to teaching and learning
-- designing and evaluating blended learning
+- Pedagogical approaches to teaching and learning
+- Designing and evaluating blended learning
 
 ## 6. Teaching Practicum
-- mentoring and supervision of practicum trainees
+- Mentoring and supervision of practicum trainees
 
 # Technical Skills
 
@@ -118,11 +119,11 @@ redirect_from:
 - Microsoft Excel
 
 ## 2. Statistical analyses
-- structural equation modelling (SEM)
-- confirmatory factor analysis (CFA)
-- exploratory factor analysis (EFA)
-- measurement invariance
-- applied regression analysis
-- multilevel modelling
-- generalized linear modelling
-- cluster analysis
+- Structural equation modelling (SEM)
+- Confirmatory factor analysis (CFA)
+- Exploratory factor analysis (EFA)
+- Measurement invariance
+- Applied regression analysis
+- Multilevel modelling
+- Generalized linear modelling
+- Cluster analysis
