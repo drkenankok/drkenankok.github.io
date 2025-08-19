@@ -2,7 +2,7 @@
 title: "The mediating role of student engagement in the relationship between teacher and digital support and learner satisfaction in blended learning environments at higher education"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1002/berj.4123
+permalink: "https://doi.org/10.1002/berj.4123"
 excerpt: 'Given the emergence of blended learning as the dominant mode of learning at university in a post-COVID-19 world, the need to examine students' perceptions of blended learning is increasingly becoming more important. This study examined the mediating role of student engagement in the relationship between the types of support (i.e., teacher, digital) and learner satisfaction in blended learning environments. A sample of 674 Year 1 and Year 2 students from a public university in Singapore participated in this study. Structural equation modelling showed that (1) teacher autonomy and digital relatedness support predicted agentic engagement, (2) digital competence and relatedness support predicted emotional engagement, (3) emotional engagement predicted all learner satisfaction facets except for learner–instructor interaction and (4) agentic engagement predicted all learner satisfaction facets except for learner–technology interaction. Of the four dimensions of student engagement, only emotional and agentic engagement mediated the relationships between various dimensions of support and learner satisfaction. Overall, these findings highlight the importance of emotionally engaging students and imbuing a sense of agency in them to enhance the relationships between the types of support and learner satisfaction.'
 date: 2025
 venue: 'British Educational Research Journal'
